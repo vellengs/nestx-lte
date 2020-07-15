@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "packages/server"
+		},
+		{
+			"path": "packages/cli"
+		},
+		{
+			"path": "packages/client"
+		}
+	],
+	"settings": {}
+}
